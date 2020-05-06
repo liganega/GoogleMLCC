@@ -1,8 +1,6 @@
-docsrc/_build/
-
 ## checkpoint directory
-notebooks/.ipynb_checkpoints
-notebooks/codes/__pycache__
+mlcc-exercises_en/.ipynb_checkpoints
+mlcc-exercises_ko/.ipynb_checkpoints
+notebooks_ko/.ipynb_checkpoints
 
 ## .DS_Store 
-notebooks/.DS_Store
